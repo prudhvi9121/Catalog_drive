@@ -1,5 +1,5 @@
 
-# Secret Computation with Lagrange Interpolation
+# Catalog Online Assessment
 
 This Problem computes secrets based on Lagrange interpolation using input data from two JSON files. The interpolation is used to reconstruct a secret from a set of points, each consisting of an `x` value and a `y` value in a specific base. The `k` number of points is used to compute the secret.
 
