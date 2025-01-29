@@ -62,8 +62,8 @@ Here’s an example structure for the `testCase1.json` and `testCase2.json` file
 The computed secrets will be printed to the console:
 
 ```bash
-Secret for Test Case 1: <calculated_secret_1>
-Secret for Test Case 2: <calculated_secret_2>
+Secret for Test Case 1: 3
+Secret for Test Case 2: 79836264049851
 ```
 
 ## Functions
